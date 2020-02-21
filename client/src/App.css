@@ -1,0 +1,167 @@
+.wrapper {
+  display: grid;
+  grid-template-columns: 1fr;
+  background-color: grey;
+}
+
+.wrapperprofile {
+  display: grid;
+  grid-template-columns: 35% 65%;
+  background-color: whitesmoke;
+}
+
+.boxx1 {
+  margin-left: 15px;
+}
+
+.boxx2 {
+  margin-top: 50px;
+}
+
+.wrapperBio {
+  display: grid;
+  grid-template-columns: 1fr;
+  background-color: grey;
+}
+
+.wrapper2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  background-color: whitesmoke;
+  grid-gap: 15px;
+}
+
+.githubname {
+  color: slateblue;
+}
+
+.Box1 {
+  margin-left: 20px !important;
+  margin-top: 20px !important;
+}
+
+.Box2 {
+  margin-left: 20px !important;
+  margin-top: 20px;
+}
+
+/*  ================= landing and dashboard actions====================== */
+
+.devconnecter {
+  margin-left: 200px;
+  margin-top: 20px;
+  font-size: 48px;
+  color: red;
+}
+
+.portfolio {
+  color: grey;
+  margin: 15px 10px 20px 10px;
+  font-size: 20px;
+}
+
+.register {
+  margin-left: 230px !important;
+  margin-top: 30px;
+}
+.login {
+  margin-left: 25px;
+  margin-top: 30px;
+}
+
+.text,
+.dashboard {
+  color: white !important;
+  margin: 2px 2px 6px 6px;
+  text-decoration: none;
+}
+
+.text:hover,
+.dashboard:hover {
+  color: white !important;
+  margin: 2px 2px 6px 6px;
+  text-decoration: none;
+}
+
+/*====== alert =====*/
+.alert {
+  color: red;
+  text-align: center;
+  font-size: 16px;
+}
+/* ===== edu and exp ==== */
+.currentedu {
+  width: 17px;
+  height: 17px;
+  float: right;
+  margin-right: 890px;
+  margin-top: 9px;
+  color: blue;
+  background-color: red;
+}
+
+.currentexp {
+  width: 17px;
+  height: 17px;
+  float: right;
+  margin-right: 925px;
+  margin-top: 9px;
+  color: blue;
+  background-color: red;
+}
+
+/* === post === */
+.image {
+  margin-top: 100px;
+  width: 120px;
+  height: 120px;
+  background-color: darkcyan;
+  text-decoration: none;
+}
+
+.name:hover {
+  text-decoration: none;
+}
+
+/* ========== developers ==== */
+.wrapper3 {
+  display: grid;
+  grid-template-columns: 15% 85%;
+  background-color: whitesmoke;
+}
+
+.box1 {
+  margin-left: 25px;
+}
+.box2 {
+  margin-top: 30px;
+}
+
+.name:hover {
+  margin-left: 20px;
+  text-decoration: none;
+}
+
+.date {
+  font-weight: bold;
+}
+
+.comment {
+  color: blueviolet;
+}
+
+.image2 {
+  margin-top: 5px;
+  width: 100px;
+  height: 100px;
+}
+
+.name {
+  margin-top: 5px;
+  margin-left: 15px;
+}
+
+.xmark {
+  height: 10px;
+  width: 10px;
+}

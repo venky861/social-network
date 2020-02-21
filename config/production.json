@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://Venky_3:Venkitheviper123@cluster0-uu1vr.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "i am the king",
+  "githubClientId": "b43161ede233e5dde47b",
+  "githubSecret": "8782eabc20133468b80bbc52cf58446ff28f01d4"
+}
